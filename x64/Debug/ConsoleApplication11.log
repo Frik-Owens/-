@@ -1,0 +1,13 @@
+﻿  ConsoleApplication11.cpp
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(8,24): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(14,28): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(22,5): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(21,5): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(91,18): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(155,31): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(170,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(180,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(189,35): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(197,27): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\top\ConsoleApplication11\ConsoleApplication11\ConsoleApplication11.cpp(202,35): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication11.vcxproj -> C:\Users\top\ConsoleApplication11\x64\Debug\ConsoleApplication11.exe
